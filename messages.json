@@ -1,0 +1,13 @@
+{
+  "start_message": "Tjäääänare. Fan vill durå?",
+  "help_message": "/start - välkomstbrev å skit\\n/nulu ställ en fråga, få nåt slags svar\\n/ritaofixa här kan du rita å måla\\n/reset - norsk omstart, om jag får hjärnblödning\\n/queue - kolla hur lång kön ä justnu",
+  "gpt_no_text": "Du läre skriva nå!\\n\\nExempelvis: /nulu skriv Bibeln baklänges",
+  "draw_no_text": "Du läre önska en täckning!\\n\\nExempelvis: /ritaofixa en grävling mä punka",
+  "gpt_no_message": "Du läre skriva nå!\\n\\nExempelvis: skriv receptet på fjolårslasagne mä strössel",
+  "queue_overflow": "kön e full, kom tebax sen",
+  "queue_empty": "kön e tom, körba",
+  "queue_stats": "Skit i kö justnu:\\n\\n{0}",
+  "queue_accepted": "din grunka ligger på kö, vänta lite ba: {0}/{1}",
+  "gpt_error": "FELFELFEL i DATORN: {0}\\n\\nKom tebax senare",
+  "reset": "Norsk omstart incoming"
+}
